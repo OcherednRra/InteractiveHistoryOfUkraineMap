@@ -1,5 +1,4 @@
 ﻿# UkraineMilitaryHistoryMap
 
-Дипломний проєкт. 
+[Дипломний проєкт](docs/Поляков.Валентин.ІО15.pdf)
 
-[Диплом](docs/diploma.pdf)
